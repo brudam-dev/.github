@@ -1,4 +1,4 @@
-![Brudam](https://github.com/brudam-dev/.github/images/channels4_banner.jpg) 
+![Brudam](https://github.com/brudam-dev/.github/blob/main/images/channels4_banner.jpg) 
 
 ## Let's bora!
 
