@@ -1,12 +1,16 @@
-## Hi there 👋
+![Brudam](https://github.com/brudam-dev/.github/images/channels4_banner.jpg) 
 
-<!--
+## Let's bora!
 
-**Here are some ideas to get you started:**
+Transforme a sua gestão de transporte aéreo e rodoviário. Junte-se aos mais de 3 mil clientes que confiam na Brudam e prepare sua gestão para decolar no transporte de cargas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* [Mais sobre as soluções Brudam](https://brudam.com.br/)
+* [Sobre nós](https://brudam.com.br/sobre-nos/)
+* [Blog da Brudam](https://brudam.com.br/blog/)
+* [Veja mais sobre as vagas](https://quarkrh.com.br/public/index.jsf)
+
+Visite o Rotimiza [rotimiza.com.br](https://rotimiza.com.br/) para saber mais!
+
+----
+
+Projetos Brudam - TMS  adotam boas práticas de conduta de ética. Para mais informações [clique aqui](https://brudam.com.br/)
